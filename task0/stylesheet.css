@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    font-family:"Quicksand";
+    color:#0f566f;
+    /*background-color: #f3f4f4;*/
+}
+.text{
+    margin-top:2%;
+    margin-bottom:2%;
+}
+h1{
+    font-size:3em;
+}
+h2{
+    font-size:1.7em;
+}
+.bilder{
+    display:inline-block;
+    width:100%;
+}
+.bilder img{
+    width:70%;
+    margin:1%;
+    /*border-width: 1%;
+    border-color: #e9b51a;
+    border-style: solid;
+    border-color:red;*/
+}
+
+.ende{
+    margin-bottom:1%;
+    margin-right:1%;
+}
+.ende{
+    float:right;
+}
+h3{
+    font-size:1em;
+}
