@@ -1,4 +1,4 @@
-# Aufgabe 02 - Prototyping-Tool
+# Aufgabe 2.1 - Prototyping-Tool
 
 ## Tool: Justinmind ![](logo.png) 
 **Bearbeitet von Anastasia Hirt und Elena Faller**
