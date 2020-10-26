@@ -4,9 +4,9 @@
 
 ![](Startseite.jpg)
 
+![](Startseite2.jpg)
+
 ## Kursseite
 
 ![](Kursseite.jpg)
-
-![](Kursseite 2.jpg)
 
