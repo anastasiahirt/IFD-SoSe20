@@ -28,3 +28,5 @@ bei welchen es selbst beim Beispiel mehrere Möglichkeiten gebe. Die erwähnten 
 Bei der Namensgebung habe ich an erster Linie an das „Intranet“ gedacht und an Möglichkeiten, den Begriff verkürzt darstellen zu können, welcher trotzdem noch einem 
 menschlichen Namen entspricht. Zuerst war ich bei „Intra“ oder „Ina“. Intra fand ich prinzipiell besser, jedoch noch zu technisch und das Wort an sich hat schon 
 sämtliche Bedeutungen. Nach Entfernen des zweiten und dritten Buchstaben kam der Name „Ira“ zustande. Der Sprachassistent wird außerdem aktiv, wenn der Name genannt wird. 
+
+[Dialog Flow Bild](https://anastasiahirt.github.io/IFD-WiSe20-21/task4/DialogFlow.png)
