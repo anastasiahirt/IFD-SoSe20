@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>IRA</title>
+    <script src="js/libs/artyom.window.min.js"></script>
+    <script src="js/playgroud-artyom-script.js"></script>
+</head>
+<body>
+    <div class="sprechen">
+        <span id="output"> </span> <br>
+        <span id= "sagen"> </span>
+    </div>
+    <div class="click">
+       <p id="start">
+            <button type="button" name="button" onclick="show_elements('befehle','linkHide_css');hide_elements('start')">Sprich mit Ira!</button>
+        </p>
+	    <p id="linkShow_css">
+		    <button type="button" onclick="show_elements('befehle','linkHide_css');hide_elements('linkShow_css')">Sprich mit Ira!</button>
+        </p>
+        <p id="linkHide_css">
+            <button type="button" onclick="show_elements('linkShow_css');hide_elements('befehle','linkHide_css')">Tipps verbergen.</button>
+        </p>
+    </div>
+    <div id="befehle">
+        <p id="satz">Beginne mit "Hallo IRA", um ein Gespräch anzufangen.</p>
+	<div id="befehle1">
+		<p>
+            "Habe ich heute eine Veranstaltung?"<br>
+            "Was für eine Vorlesung?"<br>
+            "Um wie viel Uhr ist [Vorlesung]?"<br>
+            "Habe ich neue Mails?"
+        </p>
+    </div>
+	<div id="befehle2">
+        <p>
+            "Kannst du mir die Mail vorlesen?"<br>
+            "Was steht auf meiner To-Do-Liste?"<br>
+            "Was muss ich für Interface machen?"<br>
+            "Wurden neue Dateien hochgeladen?"
+        </p>
+    </div>
+    </div>
+</body>
+</html>
