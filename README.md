@@ -9,3 +9,4 @@ Interface Design:
 <br><a href="https://github.com/anastasiahirt/IFD-WiSe20-21/blob/main/task4/task4.md"> Task 4: Dokumentation</a>
 <br><a href="https://anastasiahirt.github.io/IFD-WiSe20-21/task5/playgroud-artyom.html"> Task 5: VUI</a>
 <br><a href="https://anastasiahirt.github.io/IFD-WiSe20-21/task5/Screencast.mp4"> Task 5: VUI Screencast</a>
+<br><a href="https://anastasiahirt.github.io/IFD-WiSe20-21/task6/Aufgabe6_Dokumentation.pdf"> Task 6: Cardboard Brille Dokumentation</a>
