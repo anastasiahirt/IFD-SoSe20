@@ -12,3 +12,4 @@ Interface Design:
 <br><a href="https://anastasiahirt.github.io/IFD-WiSe20-21/task6/Aufgabe6_Dokumentation.pdf"> Task 6: Cardboard Brille Dokumentation</a><br>
 <br><a href="http://anastasiahirt.github.io/IFD-WiSe20-21/task7/Aufgabe7-VR-Konzept.pdf"> Task 7: VR Konzeption</a>
 <br><a href="https://drive.google.com/file/d/1CEIZLjL8hplm_FtYh03avJ4eG6cRBRJD/view"> Task 7: Video</a><br>
+<br><a href="https://www.youtube.com/watch?v=PMrPGeQ6YkQ&feature=youtu.be&ab_channel=AnastasiaHirt"> Task 8: Youtube 360°</a><br>
