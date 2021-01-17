@@ -9,3 +9,5 @@ Die Umsetzung erfolgte mithilfe "artyom", einem Grundgerüst in JavaScript. Ich 
 
 - [Zu IRA](https://anastasiahirt.github.io/IFD-WiSe20-21/task5/playgroud-artyom.html) (Funktioniert nur in Chrome einwandfrei) <br>
 - [Zum Video Screencast](https://anastasiahirt.github.io/IFD-WiSe20-21/task5/Screencast.mp4) 
+
+![](Vorschau.png)
