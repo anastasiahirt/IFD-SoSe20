@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>IRA</title>
+    <script src="js/libs/artyom.window.min.js"></script>
+    <script src="js/playgroud-artyom-script.js"></script>
+</head>
+<body>
+    <div class="sprechen">
+        <span id="output"> </span> <br>
+        <span id= "sagen"> </span>
+    </div>
+    <div id="beschreibung">
+        <p>
+            Willkommen bei IRA!<br><br> 
+            IRA ist deine persönliche Hilfe, um durch den Uni Alltag zu kommen.<br>
+            IRA kann dir bei zahlreichen Dingen helfen, damit du vor allem schnell einen Überblick bekommst.<br>
+            Starte IRA indem du auf den Button klickst und erhalte mehr Informationen über IRAs Funktionen.
+        </p>
+    </div>
+    <div class="click">
+       <p id="start">
+            <button type="button" name="button" onclick="show_elements('befehle','linkHide_css');hide_elements('start','beschreibung');">Sprich mit Ira!</button>
+        </p>
+	    <p id="linkShow_css">
+		    <button type="button" onclick="show_elements('befehle','linkHide_css');hide_elements('linkShow_css')">Sprich mit Ira!</button>
+        </p>
+        <p id="linkHide_css">
+            <button type="button" onclick="show_elements('linkShow_css');hide_elements('befehle','linkHide_css')">Tipps verbergen.</button>
+        </p>
+    </div>
+    <div id="befehle">
+        <p id="satz">Sprich mit IRA! IRA kennt folgende Fragen:</p>
+	<div id="befehle1">
+		<p>
+            "Habe ich heute eine Veranstaltung?"<br>
+            "Was für eine Vorlesung?"<br>
+            "Um wie viel Uhr ist [Vorlesung]?"<br>
+            "Habe ich neue Mails?"
+        </p>
+    </div>
+	<div id="befehle2">
+        <p>
+            "Kannst du mir die Mail vorlesen?"<br>
+            "Was steht auf meiner To-Do-Liste?"<br>
+            "Was muss ich für Interface machen?"<br>
+            "Wurden neue Dateien hochgeladen?"
+        </p>
+    </div>
+    </div>
+</body>
+</html>
